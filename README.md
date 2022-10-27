@@ -1,4 +1,13 @@
 <div><a href="https://github.com/KayckSchuenck"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayckSchuenck&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=KayckSchuenck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
+  
+ <div id="badges">
+  <a href="https://www.linkedin.com/in/kayck-schuenck/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:ycferreiras@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+  </a>
+</div>
 
 
 - 🔭 I’m currently working on ...
