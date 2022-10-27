@@ -34,6 +34,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDb" alt="MongoDb" width="50" height="50"/>&nbsp;
   </div>
   
+  Tests:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="50" height="50"/>&nbsp;<br/>
   
   DevOps:
   <div>
