@@ -45,7 +45,7 @@
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
     <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" title="GitHub Actions" alt="GitHub Actions" width="50" height="50"/>&nbsp;
-    <img src="https://icon-icons.com/pt/icone/a-aws/146074" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
+    <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
   </div>
 &nbsp;
 
