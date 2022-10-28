@@ -37,7 +37,7 @@
   Tests:
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="50" height="50"/>&nbsp;
-  <img src="https://www.cypress.io/static/8fb8a1db3cdc0b289fad927694ecb415/cypress-io-logo-social-share.png" title="Cypress" alt="Cypress" width="50" height="50"/>&nbsp;<br/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cypress_icon_130654.png" title="Cypress" alt="Cypress" width="50" height="50"/>&nbsp;<br/>
   </div>
   &nbsp;
   
