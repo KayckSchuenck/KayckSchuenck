@@ -37,7 +37,7 @@
   Tests:
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="50" height="50"/>&nbsp;
-  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/q1cwqhahz7jbtfzalznd" title="Cypress" alt="Cypress" width="50" height="50"/>&nbsp;<br/>
+  <img src="https://www.cypress.io/static/8fb8a1db3cdc0b289fad927694ecb415/cypress-io-logo-social-share.png" title="Cypress" alt="Cypress" width="50" height="50"/>&nbsp;<br/>
   </div>
   &nbsp;
   
@@ -45,7 +45,7 @@
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
     <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" title="GitHub Actions" alt="GitHub Actions" width="50" height="50"/>&nbsp;
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faws.amazon.com%2Fpt%2F&psig=AOvVaw0L_593jitB-m0Qzh9iw6Aa&ust=1667019164503000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJDw_rqQgvsCFQAAAAAdAAAAABAE" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
+    <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
   </div>
 &nbsp;
 
