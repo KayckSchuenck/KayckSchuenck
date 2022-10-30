@@ -5,6 +5,11 @@
 </div>
 &nbsp;
  
+  <p>Formado em desenvolvimento Web pela Driven Education</p>
+  <p>Graduando em engenharia</p>
+  <p>Sempre em busca de usar a tecnologia para tentar melhorar o mundo</p>
+  
+  Quer entrar em contato? Meu e-mail é: ycferreiras@gmail.com
   
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
