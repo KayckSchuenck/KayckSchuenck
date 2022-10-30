@@ -5,9 +5,9 @@
 </div>
 &nbsp;
  
-  <p>Formado em desenvolvimento Web pela Driven Education</p>
-  <p>Graduando em engenharia</p>
-  <p>Sempre em busca de usar a tecnologia para tentar melhorar o mundo</p>
+  ::marker <p>Formado em desenvolvimento Web pela Driven Education</p>
+  ::marker <p>Graduando em engenharia</p>
+  ::marker <p>Sempre em busca de usar a tecnologia para tentar melhorar o mundo</p>
   
   Quer entrar em contato? Meu e-mail é: ycferreiras@gmail.com
   
