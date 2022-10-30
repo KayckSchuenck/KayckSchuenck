@@ -5,9 +5,9 @@
 </div>
 &nbsp;
  
-  :man_technologist: <p>Formado em desenvolvimento Web pela Driven Education</p>
-  :hammer_and_wrench <p>Graduando em engenharia</p>
-  :computer: <p>Sempre em busca de usar a tecnologia para tentar melhorar o mundo</p>
+  <p>:man_technologist: Formado em desenvolvimento Web pela Driven Education</p>
+  <p>:hammer_and_wrench: Graduando em engenharia</p>
+  <p>:computer: Por quê não usar a tecnologia pra tentar melhorar o mundo?</p>
   
   Quer entrar em contato? Meu e-mail é: ycferreiras@gmail.com
   
