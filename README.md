@@ -10,7 +10,9 @@
   <p>:computer: Tentando usar a tecnologia para melhorar o mundo</p>
   <p>:muscle: Tempo livre? Faça exercícios e assista um filme </p>
   
-  Quer entrar em contato? Meu e-mail é: ycferreiras@gmail.com
+  Quer entrar em contato? Meu e-mail é: ycferreiras@gmail.com  &nbsp;
+  
+  <p>Algumas tecnologias com as quais trabalho:</p>
   
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
