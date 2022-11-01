@@ -8,7 +8,7 @@
   <p>:man_technologist: Formado em desenvolvimento Web pela Driven Education</p>
   <p>:hammer_and_wrench: Graduando em engenharia</p>
   <p>:computer: Tentando usar a tecnologia para melhorar o mundo</p>
-  <p>:muscle: Tempo livre? Faça exercícios e assista uma série </p>
+  <p>:muscle: Tempo livre? Faça exercícios e assista um filme </p>
   
   Quer entrar em contato? Meu e-mail é: ycferreiras@gmail.com
   
