@@ -12,7 +12,7 @@
   
   Quer entrar em contato? Meu e-mail é: ycferreiras@gmail.com  &nbsp;
   
-  <p>Algumas tecnologias com as quais trabalho:</p>
+  <strong>Algumas tecnologias com as quais trabalho:</strong>
   
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
