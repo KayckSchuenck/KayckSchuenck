@@ -1,9 +1,6 @@
 <div>
   <a href="https://github.com/KayckSchuenck">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayckSchuenck&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KayckSchuenck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-&nbsp;
+    
  
   <p>:man_technologist: Formado em desenvolvimento Web pela Driven Education</p>
   <p>:hammer_and_wrench: Engenharia Elétrica</p>
@@ -11,7 +8,8 @@
   
   Quer entrar em contato? Meu e-mail é: ycferreiras@gmail.com 
   <p>
-  Olá! Sou um estudante de engenharia que acredita que pode tentar mudar o mundo através da tecnologia. Me apaixonei pela programação e agora estou em busca de oportunidades no ramo do desenvolvimento Full-Stack.
+  Olá! Sou um estudante de engenharia que acredita que pode mudar o mundo através da tecnologia. Me apaixonei pela programação e agora estou em busca de oportunidades no ramo do desenvolvimento Full-Stack.
+  Amante de viagens, culturas e linguagens, tendo estudado e praticado Inglês, Alemão e Japonês
   </p>
   &nbsp
   
