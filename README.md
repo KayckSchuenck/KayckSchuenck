@@ -6,12 +6,12 @@
 &nbsp;
  
   <p>:man_technologist: Formado em desenvolvimento Web pela Driven Education</p>
-  <p>:hammer_and_wrench: Engenharia</p>
+  <p>:hammer_and_wrench: Engenharia Elétrica</p>
   <p>:muscle: Tempo livre? Faça exercícios e assista um filme </p>
   
   Quer entrar em contato? Meu e-mail é: ycferreiras@gmail.com 
   <p>
-  Olá! Sou um estudante de engenharia que acredita que pode tentar mudar o mundo através da tecnologia, em busca de oportunidades no ramo do desenvolvimento Full-Stack
+  Olá! Sou um estudante de engenharia que acredita que pode tentar mudar o mundo através da tecnologia. Me apaixonei pela programação e agora estou em busca de oportunidades no ramo do desenvolvimento Full-Stack.
   </p>
   &nbsp
   
